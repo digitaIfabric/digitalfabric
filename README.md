@@ -1,3 +1,5 @@
+![](https://github.com/digitalfabric92/digitalfabric/blob/master/00_Artwork/album-art.png)
+
 # Digital Fabric
 # The Album: Self-Titled Debut Album made by Digital Fabric. Created in Edmonton, Calgary, Montréal, Toronto, Chicago, New York, London, and Berlin from 2015-2018
 
@@ -36,9 +38,16 @@
 [The Postal Service](http://postalservicemusic.net/)
 [The xx](http://thexx.info)
 [Tom Misch](https://tommisch.com)
+[Montreal Music Producers Group](https://www.facebook.com/groups/328187851022140/)
 [Lighthouse Labs](https://www.lighthouselabs.ca/)
 [Outro](https://outro.io)
 [YawLife](https://sense.yaw.life)
 [HRVST](https://gohrvst.com)
 [Notetracks](https://notetracks.com)
 [You know who you are](https://www.facebook.com/david.wawryko/friends)
+
+![Header](https://github.com/digitalfabric92/digitalfabric/blob/master/00_Artwork/album-header.png)
+![Demo](https://github.com/digitalfabric92/digitalfabric/blob/master/00_Artwork/demo.png)
+![HERE](https://github.com/digitalfabric92/digitalfabric/blob/master/00_Artwork/here.JPG)
+![Profile](https://github.com/digitalfabric92/digitalfabric/blob/master/00_Artwork/profile.PNG)
+
