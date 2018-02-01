@@ -1,0 +1,18 @@
+--                                                                   _          _       __  _        _ _ _ __  _  ____
+--                                                              ___ (_)__ _  __| |_ __ |_ \| |_ __ _| (_) '_ \(_)/ _  |
+--                                                             |__ \| |__` |/ _` | '_ \ _| | | '_ \__ | | |_) | | | | |
+--                                                              __) | |  | | (_| | |_) |_  | | |_) || | | .__/| | |_| |
+--                                                             |___/|_|  |_|\__,_|_.__/  |_|_|_.__/__/|_|\___||_|\____|
+hush
+
+cps 1
+-- Initialize Tempo and Key
+
+-- Initialize midi
+import Sound.Tidal.MIDI.Context
+displayOutputDevices >>= putStrLn
+devices <- midiDevices
+m1 <- midiStream devices "IAC Driver Tidal1" 1 synthController
+m2 <- midiStream devices "IAC Driver Tidal2" 1 synthController
+m3 <- midiStream devices "IAC Driver Tidal3" 1 synthController
+m4 <- midiStream devices "IAC Driver TidalClock" 1 synthController
