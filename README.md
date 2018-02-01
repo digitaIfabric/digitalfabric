@@ -1,5 +1,5 @@
 # Digital Fabric
-# The Album: Self-Titled Debut Album made by Digital Fabric. Recorded and coded from Edmonton, Calgary, Montréal, Toronto, Chicago, New York, London, and Berlin from 2015-2018
+# The Album: Self-Titled Debut Album made by Digital Fabric. Created in Edmonton, Calgary, Montréal, Toronto, Chicago, New York, London, and Berlin from 2015-2018
 
 ### **First Digital Release:** `January 31, 2019`
 ### **Official Physical Release:** `August 5, 2020`
