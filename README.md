@@ -1,7 +1,7 @@
 ![](https://github.com/digitalfabric92/digitalfabric/blob/master/00_Artwork/album-art.png)
 
 # Digital Fabric
-# The Album: Self-Titled Debut Album made by Digital Fabric. Created in Edmonton, Calgary, Montréal, Toronto, Chicago, New York, London, and Berlin from 2015-2018
+# The Album: Self-Titled Debut Album made by Digital Fabric. Created in Edmonton, Calgary, Montréal, Toronto, Chicago, New York, London, and Berlin from 2010-2018
 
 ### **First Digital Release:** `January 31, 2019`
 ### **Official Physical Release:** `August 5, 2020`
@@ -23,6 +23,18 @@
 | 8. | ∞ |
 | 9. | Outro (I'm Dead; I'm Alive) |
 | 10.|      (Hidden) |
+
+# Rules
+1. Don't do the same thing you've always done and expect a different result.
+2. Go Outside.
+3. Make the most of The Flow.
+4. Live is always better.
+5. Give a lot, get a little
+6. Make the most of rare opportunities
+7. Think outside the box.
+8. Everything is happening now.
+9. Choose Right.
+0. Never Reveal all your tricks.
 
 # Special Thanks:
 [Arcade Fire](https://arcadefire.com)
