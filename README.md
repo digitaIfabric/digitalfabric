@@ -47,6 +47,5 @@
 [You know who you are](https://www.facebook.com/david.wawryko/friends)
 
 ![Demo](https://github.com/digitalfabric92/digitalfabric/blob/master/00_Artwork/demo.png)
-![HERE](https://github.com/digitalfabric92/digitalfabric/blob/master/00_Artwork/here.JPG)
 ![Profile](https://github.com/digitalfabric92/digitalfabric/blob/master/00_Artwork/profile.PNG)
 
