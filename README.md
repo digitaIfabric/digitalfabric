@@ -46,7 +46,6 @@
 [Notetracks](https://notetracks.com)
 [You know who you are](https://www.facebook.com/david.wawryko/friends)
 
-![Header](https://github.com/digitalfabric92/digitalfabric/blob/master/00_Artwork/album-header.png)
 ![Demo](https://github.com/digitalfabric92/digitalfabric/blob/master/00_Artwork/demo.png)
 ![HERE](https://github.com/digitalfabric92/digitalfabric/blob/master/00_Artwork/here.JPG)
 ![Profile](https://github.com/digitalfabric92/digitalfabric/blob/master/00_Artwork/profile.PNG)
