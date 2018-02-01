@@ -40,6 +40,7 @@
 [Arcade Fire](https://arcadefire.com)
 [A$AP FERG](https://alwaysstriveandprosper.asapferg.com/)
 [Bloc Party](https://blocparty.com)
+[Dabin](https://soundcloud.com/dabinlee)
 [Daughter](https://ohdaughter.com)
 [Eric Prydz](https://ericprydz.com)
 [Flume](https://flu.me)
