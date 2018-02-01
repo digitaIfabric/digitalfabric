@@ -34,6 +34,7 @@
 [Jamie xx](https://jamiexx.com)
 [Japandroids](http://japandroids.com/)
 [Mumford & Sons](https://mumfordandsons.com)
+[Nils Frahm](http://www.nilsfrahm.com/)
 [Post Malone](https://www.postmalone.com)
 [The Postal Service](http://postalservicemusic.net/)
 [The xx](http://thexx.info)
@@ -44,7 +45,7 @@
 [YawLife](https://sense.yaw.life)
 [HRVST](https://gohrvst.com)
 [Notetracks](https://notetracks.com)
-[You know who you are](https://www.facebook.com/david.wawryko/friends)
+[You Know Who You Are](https://www.facebook.com/david.wawryko/friends)
 
 ![Demo](https://github.com/digitalfabric92/digitalfabric/blob/master/00_Artwork/demo.png)
 ![Profile](https://github.com/digitalfabric92/digitalfabric/blob/master/00_Artwork/profile.PNG)
