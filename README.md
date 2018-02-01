@@ -5,6 +5,9 @@
 ### **Official Physical Release:** `August 5, 2020`
 ### VR Release: Sometime `2021-2028`
 
+[Invest](https://www.kickstarter.com/projects/digitalfabric/1216188255/)
+[Buy](https://digitalfabric.bandcamp.com)
+[Contribute](https://sense.yaw.life)
 
 | Track | Name |
 | ------------- | ------------- |
@@ -20,14 +23,22 @@
 | 10.|      (Hidden) |
 
 # Special Thanks:
+[Arcade Fire](https://arcadefire.com)
+[A$AP FERG](https://alwaysstriveandprosper.asapferg.com/)
+[Bloc Party](https://blocparty.com)
+[Daughter](https://ohdaughter.com)
+[Eric Prydz](https://ericprydz.com)
+[Flume](https://flu.me)
+[Jamie xx](https://jamiexx.com)
+[Japandroids](http://japandroids.com/)
+[Mumford & Sons](https://mumfordandsons.com)
+[Post Malone](https://www.postmalone.com)
+[The Postal Service](http://postalservicemusic.net/)
+[The xx](http://thexx.info)
+[Tom Misch](https://tommisch.com)
+[Lighthouse Labs](https://www.lighthouselabs.ca/)
 [Outro](https://outro.io)
 [YawLife](https://sense.yaw.life)
 [HRVST](https://gohrvst.com)
 [Notetracks](https://notetracks.com)
-[Arcade Fire](https://arcadefire.com)
-[Bloc Party](https://blocparty.com)
-[Flume](https://flu.me)
-[Mumford & Sons](https://mumfordandsons.com)
-[The Postal Service](http://postalservicemusic.net/)
-[The xx](http://thexx.com)
-##### You know who you are.
+[You know who you are](https://www.facebook.com/david.wawryko/friends)
