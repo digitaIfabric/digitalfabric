@@ -47,6 +47,7 @@
 [Japandroids](http://japandroids.com/)
 [Mumford & Sons](https://mumfordandsons.com)
 [Nils Frahm](http://www.nilsfrahm.com/)
+[Paper Anthem](https://www.paperanthem.com/)
 [Post Malone](https://www.postmalone.com)
 [The Postal Service](http://postalservicemusic.net/)
 [The xx](http://thexx.info)
