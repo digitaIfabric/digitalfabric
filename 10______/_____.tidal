@@ -5,6 +5,58 @@
 --                                                             |___/|_|  |_|\__,_|_.__/  |_|_|_.__/__/|_|\___||_|\____|
 hush
 
+-- Text messages
+-- David: David Wawryko :)
+-- Elsa: Dope!
+-- Elsa: I don't have data here so try calling me if I don't respond
+-- David: Ok. See you soon
+-- Elsa: I'm opposite renaissance
+-- Elsa: In front of NHL experience [3 images attached]
+-- David: Sorry my phone died. I'm going to have to pass. Call me I montreal and I'll give you money for your time.
+-- David: Can't meet today Sorry
+-- David: I'm at port authority charging.
+-- Elsa: :|
+-- David: Unless you leaving tomorrow I can't go
+-- Elsa: For real man? Been waiting for you for 40 minutes already
+-- David: Call me if you want?
+-- David: Sorry. You don't deserve this.
+-- Elsa: Elsaroseparker@gmail.com
+-- David: It sucks but it's the truth. Really sorry
+-- Elsa: Please forward the mulla now, I tuned people down for your seat
+-- Elsa: What happened?
+-- David: Truly appreciate it.
+-- David: You could find somebody else. I could find somebody else in 30-90 minutes if you want.
+-- Elsa: I had to leave 30 mins ago.
+-- David: I got into a knife fight in Brooklyn last night and was shook up and wanted to leave early prematurely, but after talking to friends I decided to stay another night like original.
+-- Elsa: So you didn't even leave to catch public transport
+-- Elsa: You waited until 30 minutes after our agreed time to tel me you couldn't come?
+-- Elsa: I'm sorry bout the knife fight, but man
+-- David: [Two images] Sorry I just couldn't send you the message in time.
+-- David: My phone was dead.
+-- David: Shit happens. Drive safe. [Image attached]
+-- David: I really am sorry. Can call you to try to calm you down before you leave
+-- Elsa: When will you be back in mtl?
+-- David: I was going to answer earlier, but the way things have been going, I didn't know for sure I just arrived back in Montreal. Thanks again for putting up with me and I Truely am sorry. I live at 777 Boul Robert Bourassa and work at Crew cafe. I would be happy to make you a shot or buy you a coffee at Crew, tell you a story you'll never forget, and agree on a fair price we both think is fair. Let me know when you're coming in. They have the best ceiling in Montreal.
+-- David: :(
+
+-- David: Hey, I saw your messages on Facebook. What time can you be at Crew?
+-- David: Sorry I didn’t have access to messenger and sometimes I use a bot to auto respond.
+-- Elsa: I don't have a car now. So I will have to leave work early and uber there.
+-- David: Ok. We can meet later just let me know when you want to. Don’t leave work and uber there.
+-- Elsa: When do u finish work?
+-- Elsa: And I don't have a choice, I leave for australia tomorrow morning
+-- David: You sure you can’t come to Crew today? I’m just about to leave here.
+-- Elsa: Leave where? Where are you?
+-- David: Crew café
+-- Elsa: So you’re leaving crew cafe to go where?
+-- David: I thought I told you we could meet at Crew anytime. We were supposed to meet at Crew
+-- Elsa: You still on your way to Crew?
+-- David: I understand. I'm sorry. [Not Delivered. Message Send Failure]
+
+--Facebook Messages
+
+--Facebook Posts
+
 cps 1
 -- Initialize Tempo and Key
 
@@ -16,3 +68,33 @@ m1 <- midiStream devices "IAC Driver Tidal1" 1 synthController
 m2 <- midiStream devices "IAC Driver Tidal2" 1 synthController
 m3 <- midiStream devices "IAC Driver Tidal3" 1 synthController
 m4 <- midiStream devices "IAC Driver TidalClock" 1 synthController
+
+-- Play
+-- m1 $ note "-14 ~ ~ ~"
+-- m2 $ note "-24 ~ -22 ~"
+m3 $ note "-3*2 ~ -13*2 ~"
+-- m4 $ note "-20 ~ ~ ~"
+-- m1 $ n "a3(5,8)"
+-- m1 $ n "a3(3,8)"
+-- m1 silence
+m2 $ note "-24 ~ -22 ~"
+m2 silence
+-- m2 $ n "c3 ~ d3 ~"
+-- m3 $ n "d1*4 d2*2 d3*2"
+m3 $ n "c1*2 d2*4 c3*2"
+m3 $ n "c3*6 c2*2"
+-- m3 silence
+
+d2 $ s "taiko_3*2"
+d3 $ s "hh:4"
+d3 silence
+d4 $ s "lor"
+d4 silence
+d4 $ s "world:2"
+
+d5 $ s "bd:1*4"
+d8 $ s "bd"
+   # n "0 1 2 3"
+   # speed (slow 8 $ scale 0.6 18 sine)
+   # room "0.8"
+   # size "0.5"
