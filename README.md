@@ -67,9 +67,6 @@
 [HRVST](https://gohrvst.com)
 [Notetracks](https://notetracks.com)
 [You Know Who You Are](https://www.facebook.com/david.wawryko/friends)
-24072
-4497
-
 
 ![Demo](https://github.com/digitalfabric92/digitalfabric/blob/master/00_Artwork/demo.png)
 ![Profile](https://github.com/digitalfabric92/digitalfabric/blob/master/00_Artwork/profile.PNG)
