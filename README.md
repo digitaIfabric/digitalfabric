@@ -57,6 +57,7 @@
 [The Postal Service](http://postalservicemusic.net/)
 [The xx](http://thexx.info)
 [Tom Misch](https://tommisch.com)
+[Tokyo Police Club](https://tokyopoliceclub.com)
 [Montreal Music Producers Group](https://www.facebook.com/groups/328187851022140/)
 [Lighthouse Labs](https://www.lighthouselabs.ca/)
 [SAT](http://sat.qc.ca/)
