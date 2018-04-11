@@ -69,6 +69,7 @@
 [HRVST](https://gohrvst.com)
 [Notetracks](https://notetracks.com)
 [You Know Who You Are](https://www.facebook.com/david.wawryko/friends)
+[The Beatles](https://www.thebeatles.com)
 
 ![Demo](https://github.com/digitalfabric92/digitalfabric/blob/master/00_Artwork/demo.png)
 ![Profile](https://github.com/digitalfabric92/digitalfabric/blob/master/00_Artwork/profile.PNG)
@@ -77,6 +78,7 @@
 Music should change.
 If you try to learn something, you can learn.
 Earn it. It's important to pay your dues.
+I wish I was taller.
 If I could go back in time, I would tell her I love her.
 Record in a Record.
 Learn.
