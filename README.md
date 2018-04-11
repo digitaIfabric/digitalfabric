@@ -75,8 +75,7 @@
 
 # Quotes
 Music should change.
-If you try to learn something for the wrong reasons, you won't learn because you have to want to learn, you have to try your absolute best to learn.
+If you try to learn something, you can learn.
 Earn it. It's important to pay your dues.
-What if
 If I could go back in time, I would tell her I love her.
 Learn.
