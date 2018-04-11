@@ -7,7 +7,7 @@
 ### **Official Physical Release:** `August 5, 2020`
 ### Mixed Reality Release: Sometime `2021-2028`
 
-[Invest](https://remix.ethereum.org)
+[Invest](https://remix.ethereum.org) META-MASK
 [Buy](https://digitalfabric.bandcamp.com)
 [Contribute](https://sense.yaw.life)
 
@@ -76,4 +76,5 @@
 Music should change.
 If you try to learn something for the wrong reasons, you won't learn because you have to want to learn, you have to try your absolute best to learn.
 Earn it. It's important to pay your dues.
+If I could go back in time, I would tell her I love her.
 Learn.

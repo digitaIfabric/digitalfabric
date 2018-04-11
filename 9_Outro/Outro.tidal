@@ -7,6 +7,9 @@ hush
 
 cps 1
 -- Initialize Tempo and Key
+https://outro.io/sounds/search?stemID=8691
+https://outro.io/sounds/search?stemID=8692
+https://outro.io/sounds/search?stemID=8832
 
 -- Initialize midi
 import Sound.Tidal.MIDI.Context
