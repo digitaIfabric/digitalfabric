@@ -78,4 +78,5 @@ Music should change.
 If you try to learn something, you can learn.
 Earn it. It's important to pay your dues.
 If I could go back in time, I would tell her I love her.
+Record in a Record.
 Learn.
