@@ -48,12 +48,13 @@
 [Flume](https://flu.me)
 [Foals](http://www.foals.co.uk/)
 [Jamie xx](https://jamiexx.com)
-[Japandroids](http://japandroids.com/)
+[Japandroids](http://japandroids.com/) ok
+[Lions](http://noeljon)
 [Mumford & Sons](https://mumfordandsons.com)
-[Nils Frahm](http://www.nilsfrahm.com/)
+[Nils Frahm](http://www.nilsfrahm.com/) !!
 [Paper Anthem](https://www.paperanthem.com/)
 [Post Malone](https://www.postmalone.com)
-[Solomun](https://www.postmalone.com)
+[Solomun](https://solomun)
 [The Postal Service](http://postalservicemusic.net/)
 [The xx](http://thexx.info)
 [Tom Misch](https://tommisch.com)
@@ -76,5 +77,6 @@
 Music should change.
 If you try to learn something for the wrong reasons, you won't learn because you have to want to learn, you have to try your absolute best to learn.
 Earn it. It's important to pay your dues.
+What if
 If I could go back in time, I would tell her I love her.
 Learn.
