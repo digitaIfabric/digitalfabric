@@ -7,14 +7,14 @@
 ### **Official Physical Release:** `August 5, 2020`
 ### Mixed Reality Release: Sometime `2021-2028`
 
-[Invest](https://remix.ethereum.org) META-MASK
+[Invest](https://remix.ethereum.org)
 [Buy](https://digitalfabric.bandcamp.com)
-[Contribute](https://sense.yaw.life)
+[Contribute](https://github.com/digitalfabric92/digitalfabric)
 
 | Track | Name |
 | ------------- | ------------- |
 | 1. | Reinvent [Featuring ..$..] |
-| 2. | ImplementAI That Will Not Lie (Noir) |
+| 2. | Implement AI That Will Not Lie (Noir) |
 | 3. | Why Not Why? |
 | 4. | Dimension X |
 | 5. | Love is (Old, Family, New, Fake, True ...) [Featuring J.A.K.E..] |
@@ -48,10 +48,10 @@
 [Flume](https://flu.me)
 [Foals](http://www.foals.co.uk/)
 [Jamie xx](https://jamiexx.com)
-[Japandroids](http://japandroids.com/) ok
+[Japandroids](http://japandroids.com/)
 [Lions](http://noeljon)
 [Mumford & Sons](https://mumfordandsons.com)
-[Nils Frahm](http://www.nilsfrahm.com/) !!
+[Nils Frahm](http://www.nilsfrahm.com/)
 [Paper Anthem](https://www.paperanthem.com/)
 [Post Malone](https://www.postmalone.com)
 [Solomun](https://solomun)
