@@ -7,7 +7,7 @@
 ### **Official Physical Release:** `August 5, 2020`
 ### Mixed Reality Release: Sometime `2021-2028`
 
-[Invest](https://remix.ethereum.org)
+[Invest](music.argent.xyz)
 [Buy](https://digitalfabric.bandcamp.com)
 [Contribute](https://github.com/digitalfabric92/digitalfabric)
 
