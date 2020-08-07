@@ -3,8 +3,7 @@
 # Digital Fabric
 # The Album: Self-Titled Debut Album made by Digital Fabric. Created in Edmonton, Calgary, Montréal, Toronto, Chicago, New York, London, and Berlin from 2010-2019
 
-### **First Digital Release:** `January 31, 2019`
-### **Official Physical Release:** `August 5, 2020`
+### **Official Release:** `2023`
 ### Mixed Reality Release: Sometime `2021-2028`
 
 [Invest](music.argent.xyz)
