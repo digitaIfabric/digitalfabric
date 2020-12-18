@@ -9,6 +9,7 @@
 [Invest](https://music.argent.xyz)
 [Buy](https://digitalfabric.bandcamp.com)
 [Contribute](https://github.com/digitaIfabric/digitalfabric)
+![Logo](https://github.com/digitaIfabric/digitalfabric/blob/master/00_Artwork/logo.png)
 
 | Track | Name |
 | ------------- | ------------- |
@@ -70,7 +71,6 @@
 [You Know Who You Are](https://www.facebook.com/davidwav/friends)
 [The Beatles](https://www.thebeatles.com)
 
-![Logo](https://github.com/digitaIfabri/digitalfabric/blob/master/00_Artwork/logo.png)
 ![Demo](https://github.com/digitaIfabric/digitalfabric/blob/master/00_Artwork/demo.png)
 ![Profile](https://github.com/digitaIfabric/digitalfabric/blob/master/00_Artwork/profile.PNG)
 
