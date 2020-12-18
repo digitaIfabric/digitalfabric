@@ -22,16 +22,16 @@
 | 10.|      (Hidden) |
 
 # Rules
-##### 1. Don't do the same thing you've always done and expect a different result.
-##### 2. Go Outside.
-##### 3. Make the most of The Flow.
-##### 4. Live is always better.
-##### 5. Give.
-##### 6. Make the most of rare opportunities.
-##### 7. Think outside the box.
-##### 8. Everything is happening now.
-##### 9. Choose Right (Make the best decisions).
-##### 0. Magicians never reveal all tricks.
+1. Don't do the same thing you've always done and expect a different result.
+2. Go Outside.
+3. Make the most of The Flow.
+4. Live is always better.
+5. Give.
+6. Make the most of rare opportunities.
+7. Think outside the box.
+8. Everything is happening now.
+9. Choose Right (Make the best decisions).
+0. Magicians never reveal all tricks.
 
 # Special Thanks:
 
