@@ -6,7 +6,7 @@
 ### **Official Release:** `2023`
 ### Mixed Reality Release: Sometime `2021-2028`
 
-[Invest](music.argent.xyz)
+[Invest](https://music.argent.xyz)
 [Buy](https://digitalfabric.bandcamp.com)
 [Contribute](https://github.com/digitaIfabric/digitalfabric)
 
@@ -67,7 +67,7 @@
 [YawLife](https://sense.yaw.life)
 [HRVST](https://gohrvst.com)
 [Notetracks](https://notetracks.com)
-[You Know Who You Are](https://www.facebook.com/david.wawryko/friends)
+[You Know Who You Are](https://www.facebook.com/davidwav/friends)
 [The Beatles](https://www.thebeatles.com)
 
 ![Demo](https://github.com/digitaIfabri/digitalfabric/blob/master/00_Artwork/demo.png)
