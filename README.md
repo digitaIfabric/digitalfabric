@@ -70,7 +70,8 @@
 [You Know Who You Are](https://www.facebook.com/davidwav/friends)
 [The Beatles](https://www.thebeatles.com)
 
-![Demo](https://github.com/digitaIfabri/digitalfabric/blob/master/00_Artwork/demo.png)
+![Logo](https://github.com/digitaIfabri/digitalfabric/blob/master/00_Artwork/logo.png)
+![Demo]https://github.com/digitaIfabric/digitalfabric/blob/master/00_Artwork/demo.png)
 ![Profile](https://github.com/digitaIfabric/digitalfabric/blob/master/00_Artwork/profile.PNG)
 
 2c64d6215d3aa213eb19e1ca4b550451ab36e831e5b64a5634199dbaca43bb6d
