@@ -6,9 +6,6 @@
 ### **Official Release:** `2023`
 ### Mixed Reality Release: Sometime `2021-2028`
 
-[Invest](https://music.argent.xyz)
-[Buy](https://digitalfabric.bandcamp.com)
-[Contribute](https://github.com/digitaIfabric/digitalfabric)
 ![Logo](https://github.com/digitaIfabric/digitalfabric/blob/master/00_Artwork/logo.png)
 
 | Track | Name |
@@ -70,6 +67,11 @@
 [Notetracks](https://notetracks.com)
 [You Know Who You Are](https://www.facebook.com/davidwav/friends)
 [The Beatles](https://www.thebeatles.com)
+
+
+[Invest](https://music.argent.xyz)
+[Buy](https://digitalfabric.bandcamp.com)
+[Contribute](https://github.com/digitaIfabric/digitalfabric)
 
 ![Demo](https://github.com/digitaIfabric/digitalfabric/blob/master/00_Artwork/demo.png)
 ![Profile](https://github.com/digitaIfabric/digitalfabric/blob/master/00_Artwork/profile.PNG)
