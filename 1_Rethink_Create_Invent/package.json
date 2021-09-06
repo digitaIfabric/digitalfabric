@@ -1,0 +1,16 @@
+{
+  "name": "rethink-create-invent",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "elementary .",
+    "nodemon": "nodemon --exec npm start"
+  },
+  "author": "David Wawryko",
+  "license": "ISC",
+  "dependencies": {
+    "@nick-thompson/elementary": "^0.2.0",
+    "nodemon": "^2.0.12"
+  }
+}
